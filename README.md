@@ -1,4 +1,6 @@
 Teste MySQL para Desenvolvedor
+
+
 Objetivo:
 Fazer uma query que retorne o relatório abaixo:
 
