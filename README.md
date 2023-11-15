@@ -5,3 +5,5 @@ Fazer uma query que retorne o relatório abaixo:
 Todos os clientes, cor de suas casas, seus bairros, seus carros
 Requisitos:
 Utilizar o dump desse projeto;
+
+https://github.com/westwingbrasil/test-mysql
